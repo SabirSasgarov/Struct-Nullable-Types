@@ -1,0 +1,15 @@
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\bin\Debug\net8.0\Struct Nullable Types.exe
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\bin\Debug\net8.0\Struct Nullable Types.deps.json
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\bin\Debug\net8.0\Struct Nullable Types.runtimeconfig.json
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\bin\Debug\net8.0\Struct Nullable Types.dll
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\bin\Debug\net8.0\Struct Nullable Types.pdb
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\obj\Debug\net8.0\Struct Nullable Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\obj\Debug\net8.0\Struct Nullable Types.AssemblyInfoInputs.cache
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\obj\Debug\net8.0\Struct Nullable Types.AssemblyInfo.cs
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\obj\Debug\net8.0\Struct Nullable Types.csproj.CoreCompileInputs.cache
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\obj\Debug\net8.0\Struct Nullable Types.sourcelink.json
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\obj\Debug\net8.0\Struct Nullable Types.dll
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\obj\Debug\net8.0\refint\Struct Nullable Types.dll
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\obj\Debug\net8.0\Struct Nullable Types.pdb
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\obj\Debug\net8.0\Struct Nullable Types.genruntimeconfig.cache
+C:\Users\sabirsas\Desktop\Class Tasks\Struct Nullable Types\Struct Nullable Types\obj\Debug\net8.0\ref\Struct Nullable Types.dll
