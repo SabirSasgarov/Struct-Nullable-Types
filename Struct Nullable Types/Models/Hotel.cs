@@ -10,40 +10,53 @@ namespace Struct_Nullable_Types.Models
     internal class Hotel
     {
         public string Name { get; set; }
-        private Room[] Rooms = new Room[0];
+        private static Room[] Rooms = new Room[0];
 
         public void AddRoom(Room room)
         {
-            Array.Resize(ref Rooms, Rooms.Length + 1);
+            foreach (var currentRoom in Rooms)
+            {
+                if (room.Name == currentRoom.Name)
+                {
+                    throw new Conflict("You can not add the room with same name!");
+                }
+			}
+			Array.Resize(ref Rooms, Rooms.Length + 1);
             Rooms[^1] = room;
             Console.WriteLine("Room has been added.");
         }
 
         public void Reserve(int? roomId)
         {
+            bool isFound = false;
             foreach(var room in Rooms)
             {
                 if(room.Id == roomId)
                 {
                     if (room.IsAvailable)
                     {
+                        isFound = true;
                         room.IsAvailable = false;
                         Console.WriteLine("Room has been reserved.");
                     }
-                    throw new NotAvailableException("Room is not available.");
+                    else
+                        throw new NotAvailableException("Room is not available.");
                 }
-                throw new NotFoundException("Room with this id is not found.");
-
             }
+            if(!isFound)
+                throw new NotFoundException("Room with this id is not found.");
         }
 
-
-        public Hotel this[int index]
+        public Room this[int index]
         {
             get
             {
-                return new Hotel("salam");
+                return Rooms[index];
             }
+            set
+            {
+				Rooms[index] = value;
+			}
         }
 
         public Hotel(string name)

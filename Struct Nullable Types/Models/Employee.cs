@@ -18,20 +18,5 @@ namespace Struct_Nullable_Types.Models
             BirthDate = bday;
         }
 
-        public static void CheckEmployees(Employee[] employees, DateTime startDate, DateTime endDate, double minSalary)
-        {
-            int count = default;
-            foreach (var employee in employees)
-            {
-                if (employee.BirthDate >= startDate && employee.BirthDate <= endDate && employee.Salary >= minSalary)
-                {
-                    Console.WriteLine($"{employee.Name} {employee.Surname} meets the criteria.");
-                    count++;
-                }
-            }
-            Console.WriteLine(count);
-        }
-
-
     }
 }

@@ -32,8 +32,5 @@ namespace Struct_Nullable_Types.Models
         {
             return ShowInfo();
         }
-
-
-
     }
 }

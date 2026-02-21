@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Struct Nullable Types")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3ff703895438a91eba4a61bf3eb60fa69e7a578")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6990cb50abd073ce4fa73a5597af8126d3ed468")]
 [assembly: System.Reflection.AssemblyProductAttribute("Struct Nullable Types")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Struct Nullable Types")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
