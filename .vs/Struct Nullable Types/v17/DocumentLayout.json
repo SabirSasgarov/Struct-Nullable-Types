@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sabirsas\\Desktop\\Class Tasks\\Struct Nullable Types\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\Struct-Nullable-Types\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{171BAD04-3A82-4AFC-AF7E-67DBAD80BE39}|Struct Nullable Types\\Struct Nullable Types.csproj|c:\\users\\sabirsas\\desktop\\class tasks\\struct nullable types\\struct nullable types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{171BAD04-3A82-4AFC-AF7E-67DBAD80BE39}|Struct Nullable Types\\Struct Nullable Types.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\programs\\struct-nullable-types\\struct nullable types\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171BAD04-3A82-4AFC-AF7E-67DBAD80BE39}|Struct Nullable Types\\Struct Nullable Types.csproj|solutionrelative:struct nullable types\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171BAD04-3A82-4AFC-AF7E-67DBAD80BE39}|Struct Nullable Types\\Struct Nullable Types.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\programs\\struct-nullable-types\\struct nullable types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{171BAD04-3A82-4AFC-AF7E-67DBAD80BE39}|Struct Nullable Types\\Struct Nullable Types.csproj|solutionrelative:struct nullable types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{171BAD04-3A82-4AFC-AF7E-67DBAD80BE39}|Struct Nullable Types\\Struct Nullable Types.csproj|c:\\users\\sabirsas\\desktop\\class tasks\\struct nullable types\\struct nullable types\\models-task3\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{171BAD04-3A82-4AFC-AF7E-67DBAD80BE39}|Struct Nullable Types\\Struct Nullable Types.csproj|solutionrelative:struct nullable types\\models-task3\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{171BAD04-3A82-4AFC-AF7E-67DBAD80BE39}|Struct Nullable Types\\Struct Nullable Types.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\programs\\struct-nullable-types\\struct nullable types\\enums\\weaponshoottype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171BAD04-3A82-4AFC-AF7E-67DBAD80BE39}|Struct Nullable Types\\Struct Nullable Types.csproj|solutionrelative:struct nullable types\\enums\\weaponshoottype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sabirsas\\Desktop\\Class Tasks\\Struct Nullable Types\\Struct Nullable Types\\Program.cs",
-              "RelativeDocumentMoniker": "Struct Nullable Types\\Program.cs",
-              "ToolTip": "C:\\Users\\sabirsas\\Desktop\\Class Tasks\\Struct Nullable Types\\Struct Nullable Types\\Program.cs",
-              "RelativeToolTip": "Struct Nullable Types\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAASwCQAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "WeaponShootType.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\Struct-Nullable-Types\\Struct Nullable Types\\Enums\\WeaponShootType.cs",
+              "RelativeDocumentMoniker": "Struct Nullable Types\\Enums\\WeaponShootType.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\Struct-Nullable-Types\\Struct Nullable Types\\Enums\\WeaponShootType.cs",
+              "RelativeToolTip": "Struct Nullable Types\\Enums\\WeaponShootType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T13:25:32.682Z",
+              "WhenOpened": "2026-02-21T19:55:17.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\Struct-Nullable-Types\\Struct Nullable Types\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Struct Nullable Types\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\Struct-Nullable-Types\\Struct Nullable Types\\Models\\Employee.cs",
+              "RelativeToolTip": "Struct Nullable Types\\Models\\Employee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:57:45.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\sabirsas\\Desktop\\Class Tasks\\Struct Nullable Types\\Struct Nullable Types\\Models-task3\\Weapon.cs",
-              "RelativeDocumentMoniker": "Struct Nullable Types\\Models-task3\\Weapon.cs",
-              "ToolTip": "C:\\Users\\sabirsas\\Desktop\\Class Tasks\\Struct Nullable Types\\Struct Nullable Types\\Models-task3\\Weapon.cs",
-              "RelativeToolTip": "Struct Nullable Types\\Models-task3\\Weapon.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxAAAAAsAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\Struct-Nullable-Types\\Struct Nullable Types\\Program.cs",
+              "RelativeDocumentMoniker": "Struct Nullable Types\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\Struct-Nullable-Types\\Struct Nullable Types\\Program.cs",
+              "RelativeToolTip": "Struct Nullable Types\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T14:23:00.821Z",
+              "WhenOpened": "2026-02-19T13:25:32.682Z",
               "EditorCaption": ""
             }
           ]

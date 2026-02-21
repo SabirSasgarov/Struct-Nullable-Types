@@ -38,12 +38,13 @@ namespace Struct_Nullable_Types.Models
         }
 
 
-
-
-
-
-
-
+        public Hotel this[int index]
+        {
+            get
+            {
+                return new Hotel("salam");
+            }
+        }
 
         public Hotel(string name)
         {
